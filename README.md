@@ -5,7 +5,7 @@ github "stats":
 
 ![makevoid-github-statistics](https://github-profile-trophy.vercel.app/?username=makevoid)
 
-**Languages:**
+**Main languages:**
 1. Ruby
 2. Python
 3. NodeJS
