@@ -3,7 +3,7 @@
 
 github "stats": 
 
-![makevoid-github-statistics](https://github-profile-trophy.vercel.app/?username=makevoid)
+<a href="#">![makevoid-github-statistics](https://github-profile-trophy.vercel.app/?username=makevoid)</a>
 
 **Main languages:**
 1. Ruby
