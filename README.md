@@ -5,6 +5,7 @@
 2. Python
 3. NodeJS
 4. Golang
+5. Java
 
 **Latest Talk: Decentralized Stablecoins 101 - Porto Tech Hub 2022**
 
