@@ -1,11 +1,5 @@
 ### twitter: [@makevoid](https://twitter.com/makevoid)
 
-**Main languages:**
-1. Ruby
-2. Python
-3. NodeJS
-4. Golang
-
 **Latest Talk: Decentralized Stablecoins 101 - Porto Tech Hub 2022**
 
 - Developer Talk
